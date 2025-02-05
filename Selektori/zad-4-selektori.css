@@ -1,0 +1,5 @@
+div ~ p{
+    background-color: turquoise;
+    color: black;
+}
+/* pogađa sve p tagove nakon div-a*/b 
